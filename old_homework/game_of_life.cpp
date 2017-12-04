@@ -165,7 +165,7 @@ void updateMatrix(int doit)
 			   checkRevive(i,j);
 			  if(matrix[i][j] == 1)
 			   checkKill(i,j);
-		    } 
+		    }
 	    }
     for(i = 0; i < ROWS; i++)
 	    {
@@ -179,7 +179,7 @@ void updateMatrix(int doit)
 		  		case -1:
 		  			matrix[i][j] = 1;
 		  			break;
-		  	}				
+		  	}
 		  }
 	}
 
@@ -187,7 +187,7 @@ void updateMatrix(int doit)
 
 // determines how fast you want the simulation
 // to run.
-	glutTimerFunc(delay,updateMatrix,active); 
+	glutTimerFunc(delay,updateMatrix,active);
 
 }
 
@@ -229,11 +229,11 @@ for(j = 0; j < 75; j ++)
 
 		if(matrix[i][j] == 1) // alive
 		  glColor3f(0.0, 0.0, 0.0);
-		else 
+		else
 		  glColor3f(1.0, 165.0/255.0, 0.0);  //dead
 
     if(mode == GL_SELECT)
-		glPushName(j);	
+		glPushName(j);
 
     glRectf(x, y, x+width, y+width);
 
@@ -243,7 +243,7 @@ for(j = 0; j < 75; j ++)
 				glPopName ();
 }
 
-	
+
 x = gap;
 y = y + width + gap;
 
@@ -252,7 +252,7 @@ y = y + width + gap;
 
 }
 
-/* 
+/*
 * processHits prints out the contents of the
 *  selection array and processes clicks
 */
@@ -291,7 +291,7 @@ void keyboard(unsigned char key,
 int x, int y)
 {
 
- 
+
    switch (key)
    {
       case 27:
