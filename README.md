@@ -1,12 +1,17 @@
 graphics
 ============
-## Next
+## Recent development
 
-- Add some Vulkan work
-- Some basic texture mapping, lighting, etc. demonstrate basic concepts
-- Demonstrate advanced concepts
+### General initiatives
+- [ ] Run through Vulkan tutorials
 
-## Old university homework
+### Specific demos
+- [ ] Blinn-phong
+- [ ] Texture mapping
+- [ ] Vulkan gourad
+- [ ] Simple custom shader
+
+## Old university development
 ### Sphere
 An example of gouraud shading.
 
