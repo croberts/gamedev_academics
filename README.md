@@ -1,6 +1,6 @@
 # showreel
 ## graphics
-### basic 3d concepts
+### basic
 - [ ] blinn-phong shading
 - [ ] gouraud shading
 - [ ] physics based shading
@@ -8,7 +8,7 @@
 - [ ] camera auto-circling
 - [ ] simple particle system
 
-### intermediate 3d concepts
+### intermediate
 - [ ] normal mapping
 - [ ] global illumination
 - [ ] ambient occlusion
@@ -17,14 +17,16 @@
 - [ ] area lighting
 
 ## physics
-### basic concepts
+### basic
 - [ ] angular dynamics
 - [ ] collision detection
 - [ ] collision response
 
 ## gameplay
-### basic 2d gameplay concepts
+### basic
 - [ ] example of _intuitive_ control
 - [ ] character able to interact with environment
+- [x] [pathfinding](https://github.com/clrobert/pathfinding)
 
-### intermediate 2d gameplay concepts
+### intermediate
+- [ ] [decision making](https://github.com/clrobert/minimax)
