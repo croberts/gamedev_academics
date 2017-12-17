@@ -6,12 +6,15 @@
 - [ ] physics based shading
 - [ ] texture mapping
 - [ ] camera auto-circling
+- [ ] simple particle system
 
 ### intermediate 3d concepts
 - [ ] normal mapping
 - [ ] global illumination
 - [ ] ambient occlusion
 - [ ] mirror reflections
+- [ ] ssao
+- [ ] area lighting
 
 ## physics
 ### basic concepts
