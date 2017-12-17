@@ -13,6 +13,12 @@
 - [ ] ambient occlusion
 - [ ] mirror reflections
 
+## physics
+### basic concepts
+- [ ] angular dynamics
+- [ ] collision detection
+- [ ] collision response
+
 ## gameplay
 ### basic 2d gameplay concepts
 - [ ] example of _intuitive_ control
