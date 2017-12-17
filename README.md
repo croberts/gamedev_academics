@@ -1,29 +1,16 @@
-graphics
-============
-## Recent development
-
-### General initiatives
-- [ ] Run through Vulkan tutorials
-
-### Specific demos
+# showreel
+## 3D
+### Basic Concepts
 - [ ] Blinn-phong
 - [ ] Texture mapping
-- [ ] Vulkan gourad
-- [ ] Simple custom shader
+- [ ] Physics based shading
 
-## Old university development
-### Sphere
-An example of gouraud shading.
+### Camera
+- [ ] Advanced camera tracking
 
-###  Game of Life
-A reproduction of Conway's Game of Life written using OpenGL.
+## 2D
+### Control
+- [ ] Example of intuitive control
 
-The view is kinda buggy on windows platforms.
-
-Left-click to set up live cells.
-
-Keys:
-S: Begin simulation
-E: Stop simulation
--: Slow simulation
-=: Speed simulation
+### Character
+- [ ] Able to interact with environment somehow
