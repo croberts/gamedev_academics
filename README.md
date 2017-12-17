@@ -1,16 +1,20 @@
-# showreel
-## 3D
-### Basic Concepts
-- [ ] Blinn-phong
-- [ ] Texture mapping
-- [ ] Physics based shading
+## graphics
+### 3D basic demo
+- [ ] blinn-phong shading
+- [ ] gouraud shading
+- [ ] physics based shading
+- [ ] texture mapping
+- [ ] camera auto-circling
 
-### Camera
-- [ ] Advanced camera tracking
+### 3D advanced demo
+- [ ] normal mapping
+- [ ] global illumination
+- [ ] ambient occlusion
+- [ ] mirror reflections
 
-## 2D
-### Control
-- [ ] Example of intuitive control
+## gameplay
+## 2D basic demo
+- [ ] example of _intuitive_ control
+- [ ] character able to interact with environment
 
-### Character
-- [ ] Able to interact with environment somehow
+## 2D advanced demo
