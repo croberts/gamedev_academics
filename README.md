@@ -14,3 +14,6 @@
 - [ ] mirror reflections
 - [ ] ssao
 - [ ] area lighting
+
+### capstone
+- [ ] 3d game of life
