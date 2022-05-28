@@ -26,13 +26,13 @@
 - [ ] parallax
 - [ ] systems design
 
-- Design a level midway through an already existing IP.
-- Design a crafting system.
-- Design an RPG levelling system.
-- Design a puzzle platformer.
-- Design a combat system.
-- Design an update for the Riot honor system.
-- Design a user interface with unique constraints.
-- For an FPS
-- For a strategy game
-- Design x for a blind person.
+- [ ] Design a level midway through an already existing IP.
+- [ ] Design a crafting system.
+- [ ] Design an RPG levelling system.
+- [ ] Design a puzzle platformer.
+- [ ] Design a combat system.
+- [ ] Design an update for the Riot honor system.
+- [ ] Design a user interface with unique constraints.
+- [ ] For an FPS
+- [ ] For a strategy game
+- [ ] Design x for a blind person.
