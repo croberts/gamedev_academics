@@ -13,3 +13,10 @@
 - [ ] ssao
 - [ ] area lighting
 - [ ] 3d game of life
+
+## physics
+- [ ] angular dynamics
+- [ ] collision detection
+- [ ] collision response
+- [ ] example of intuitive control
+- [ ] character able to interact with environment
